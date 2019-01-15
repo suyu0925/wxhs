@@ -1,0 +1,16 @@
+{
+  "name": "wxhs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/suyu0925/wxhs.git",
+  "author": "suyu0925 <suyu0925@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "moment": "^2.23.0",
+    "node-schedule": "^1.3.1",
+    "nodemailer": "^5.1.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
